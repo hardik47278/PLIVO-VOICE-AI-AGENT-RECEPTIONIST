@@ -1,0 +1,9 @@
+motor
+httpx
+dateparser
+motor
+pytz
+websockets
+python-dotenv
+pymongo
+audioop-lts

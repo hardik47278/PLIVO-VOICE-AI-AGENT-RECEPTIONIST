@@ -1,0 +1,24 @@
+# Environment variables
+.env
+.env.*
+
+# Virtual environments
+v/
+ve/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Vector database
+chroma_store/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Audio cache
+*.raw
